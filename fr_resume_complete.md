@@ -103,7 +103,7 @@ pdf_options:
 ##### 2015-04 : OWASP, Sécurité des Applications - Advens
 #### 2009-01 à 2011-01 : D.U.T.&nbsp;Informatique - IUT&nbsp;A&nbsp;Lille&nbsp;1
 
-## 😀&nbsp;Loisirs
+## 🎨&nbsp;Loisirs
 ##### 🚴‍♀️&nbsp;Cyclisme (utilitaire, route, [virtuel](https://www.zwift.com/) & VTT)
 ##### 📚&nbsp;[Personal Knowledge Management](https://fr.wikipedia.org/wiki/Gestion_des_connaissances_personnelles)
 ##### 🧼&nbsp;[Saponification](https://fr.wikipedia.org/wiki/Savon_%C3%A0_froid)
