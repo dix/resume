@@ -30,7 +30,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install
-    - name: Build PDF
+    - name: Build PDF files
       run: npm run build-pdf
     - name: Build HTML
       run: npm run build-html
