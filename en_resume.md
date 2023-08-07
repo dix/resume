@@ -4,24 +4,47 @@ pdf_options:
   format: A4
   margin: 2mm
 ---
+
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 # BRAVARD Amadis
+
 📧&nbsp;amadis.bravard[AT]outlook.com - ⌨&nbsp;https://www.amadisbravard.fr/<br />
 👨‍💼&nbsp;https://www.linkedin.com/in/dix/ - 🧫&nbsp;https://www.github.com/dix/<br />
 🗣&nbsp;French/English - 🗺&nbsp;Lille, France<br />
 
+## 🎯&nbsp;Cloud Developer
 
-## 🎯&nbsp;Technical Lead/Solution Architect
-> For more than ten years, first as a Full-Stack Software Engineer then as a Technical Lead, I was able to learn about various functional domains (healthcare, banking/insurance...) while working with multiple technologies (Java, Angular, Node.js, Unix, Cloud...).<br />
-> Now, after collecting and analyzing the requirements, I design interoperability solutions that best meet the expectations of customers/users while staying within the constraints of each stakeholder.
+> For more than ten years, first as a Full-Stack Software Engineer then as a Technical Lead and finally as Solutions
+> Architect, I was able to learn about various functional domains (healthcare, banking/insurance...) while working with
+> multiple technologies (Java, Angular, Node.js, Unix...).<br />
+> In order to widen my skills around the lifecycle of application software, I took a position oriented around
+> infrastructures in the Cloud, that I now wish to validate on other missions.
 >
 > _If it isn't documented, it doesn't exist_
 
 ## 👨‍💻&nbsp;Professional Experience
 
-### 2019-01 to Present : Dedalus&nbsp;(ex-Inovelan) - Healthcare
-#### Technical Lead then Solution Architect
+### 2022-07 to Present : Devoteam Revolve - IT&nbsp;Services
+
+#### Cloud Consultant AWS
+
+- Estimating, designing and developing features/fixes
+- Producing, monitoring and maintaining Data oriented infrastructures on AWS
+
+##### Customers - Domains
+
+- Malakoff Humanis - Insurance
+
+##### Environment
+
+- J2EE, Angular, Python, Terraform, Git, Jenkins, Grafana, AWS (EC2, RDS, S3, Lambda, Athena, EKS...)
+- 15 people
+
+### 2019-01 to 2022-06 : Dedalus&nbsp;(ex-Inovelan) - Healthcare
+
+#### Technical Lead then Solutions Architect
+
 - Collecting and analyzing the requirements
 - Designing solutions with the international partners and tracking their implementation
 - Implementing development industrialization practices (Jira, documentation, code review...)
@@ -30,11 +53,14 @@ pdf_options:
 - Conducting technical interviews
 
 ##### Environment
+
 - J2EE, Angular, Node.js, REST, Git, HL7 FHIR, Drone CI, Docker, Unix, Agile (Scrum)
 - 5 to 20 people
 
 ### 2010-11 to 2018-12 : Inetum&nbsp;(ex-GFI&nbsp;Informatique) - IT&nbsp;Services
-#### Intern, Technical Analyst then Technical Lead 
+
+#### Intern, Technical Analyst then Technical Lead
+
 - Training and monitoring the team members
 - Estimating, designing and developing features/fixes
 - Quality control : PCI DSS/OWASP Top 10
@@ -44,23 +70,39 @@ pdf_options:
 - Conducting technical interviews
 
 ##### Customers - Domains
+
 - Pacifica&nbsp;(Crédit&nbsp;Agricole) - Insurance
 - Payline&nbsp;(Monext) - Web&nbsp;payment
 - Metro&nbsp;Cash&Carry - Retail
 - France&nbsp;Télécom&nbsp;(Orange) - Automation
 
 ##### Environment
+
 - J2EE, Angular, Bash, SVN, Git, Unix, Agile (Scrum)
 - 5 to 20 people
 
 ## 👨‍🎓&nbsp;Education/Training
+
+#### Certifications
+
+##### 2023-04 : HashiCorp Certified: Terraform Associate (003)
+
+##### 2022-09 : AWS Certified Solutions Architect - Associate
+
 #### Professionals
+
 ##### 2016-12 : Développement d'applications riches avec Angular 2 - Zénika
+
 ##### 2016-05 : AngularJS, maîtriser le Framework JavaScript de Google – Orsys
+
 ##### 2015-04 : OWASP, Sécurité des Applications - Advens
+
 #### 2009-01 to 2011-01 : D.U.T.&nbsp;Informatique - IUT&nbsp;A&nbsp;Lille&nbsp;1
 
 ## 🎨&nbsp;Interests
+
 ##### 🚴‍♀️&nbsp;Cycling (utility, road, [virtual](https://www.zwift.com/) & MTB)
+
 ##### 📚&nbsp;[Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
+
 ##### 🧼&nbsp;[Soap-making](https://en.wikipedia.org/wiki/Soap#Soap-making_for_hobbyists)
