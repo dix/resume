@@ -32,7 +32,7 @@ pdf_options:
 - Estimating, designing and developing features/fixes
 - Producing, monitoring and maintaining Data oriented infrastructures on AWS
 - Writing technical and functional documentation
-- Support to Data Engineer on development tasks
+- Support to Data Engineers on development tasks
 - Support to Data Lake users
 
 ##### Environment

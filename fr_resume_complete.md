@@ -32,7 +32,7 @@ pdf_options:
 - Chiffrage, conception, développement et recette des évolutions/correctifs
 - Réalisation, monitoring et maintenance d'infrastructures AWS orientées Data
 - Rédaction de documentation technique et fonctionnelle
-- Accompagnement des Data Engineer sur les sujets de développement
+- Accompagnement des Data Engineers sur les sujets de développement
 - Support aux utilisateurs du Data Lake
 
 ##### Environnement
