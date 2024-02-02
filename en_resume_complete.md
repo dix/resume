@@ -140,6 +140,8 @@ pdf_options:
 
 #### Certifications
 
+##### 2023-12 : Certificat de Connaissance Numérique Responsable
+
 ##### 2023-04 : HashiCorp Certified: Terraform Associate (003)
 
 ##### 2022-09 : AWS Certified Solutions Architect - Associate
