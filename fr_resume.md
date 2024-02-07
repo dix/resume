@@ -25,7 +25,7 @@ pdf_options:
 
 ## 👨‍💻&nbsp;Expérience professionnelle
 
-### 2022-07 à aujourd'hui : Devoteam Revolve - ESN
+### 2022-07 à 2023-12 : Devoteam Revolve - ESN
 
 #### Cloud Consultant AWS
 

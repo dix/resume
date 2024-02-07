@@ -25,9 +25,9 @@ pdf_options:
 
 ## 👨‍💻&nbsp;Professional Experience
 
-### 2022-07 to Present : Devoteam Revolve - IT&nbsp;Services
+### 2022-07 to 2023-12 : Devoteam Revolve - IT&nbsp;Services
 
-#### 2022-07 to Present : Cloud Consultant AWS - Malakoff Humanis - Insurance
+#### 2022-07 to 2023-12 : Cloud Consultant AWS - Malakoff Humanis - Insurance
 
 - Estimating, designing and developing features/fixes
 - Producing, monitoring and maintaining Data oriented infrastructures on AWS

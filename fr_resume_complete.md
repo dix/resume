@@ -25,9 +25,9 @@ pdf_options:
 
 ## 👨‍💻&nbsp;Expérience professionnelle
 
-### 2022-07 à aujourd'hui : Devoteam Revolve - ESN
+### 2022-07 à 2023-12 : Devoteam Revolve - ESN
 
-#### 2022-07 à aujourd'hui : Cloud Consultant AWS - Malakoff Humanis - Assurance/Retraite
+#### 2022-07 à 2023-12 : Cloud Consultant AWS - Malakoff Humanis - Assurance/Retraite
 
 - Chiffrage, conception, développement et recette des évolutions/correctifs
 - Réalisation, monitoring et maintenance d'infrastructures AWS orientées Data

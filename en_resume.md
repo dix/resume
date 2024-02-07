@@ -25,7 +25,7 @@ pdf_options:
 
 ## 👨‍💻&nbsp;Professional Experience
 
-### 2022-07 to Present : Devoteam Revolve - IT&nbsp;Services
+### 2022-07 to 2023-12 : Devoteam Revolve - IT&nbsp;Services
 
 #### Cloud Consultant AWS
 
